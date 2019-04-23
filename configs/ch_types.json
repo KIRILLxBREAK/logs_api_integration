@@ -26,7 +26,7 @@
 	"ym:s:lastSocialNetwork": "String",
 	"ym:s:lastSocialNetworkProfile": "String",
 	"ym:s:referer": "String",
-	"ym:s:lastDirectClickOrder": "UInt32",
+	"ym:s:lastDirectClickOrder": "String",
 	"ym:s:lastDirectBannerGroup": "UInt32",
 	"ym:s:lastDirectClickBanner": "String",
 	"ym:s:lastDirectPhraseOrCond": "String",
